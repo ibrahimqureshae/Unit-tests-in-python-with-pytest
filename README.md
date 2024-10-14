@@ -23,5 +23,5 @@ To run this project, you will need:
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/shopping-cart.git
-cd shopping-cart
+git clone https://github.com/ibrahimqureshae/unit-tests-in-python-with-pytest.git
+cd unit-tests-in-python-with-pytest
